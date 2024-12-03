@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793266258032",
+    "project_id": "eduscanapp",
+    "storage_bucket": "eduscanapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793266258032:android:e79387007a38593537f4b5",
+        "android_client_info": {
+          "package_name": "com.example.appblog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBLbe9oK9TP4n7_ottqZpjEnPOxRigyts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
